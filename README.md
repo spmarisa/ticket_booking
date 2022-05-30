@@ -5,20 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version - 3.1.1
 
-* System dependencies
+* Rails version - 7.0.3
 
-* Configuration
+* Postgres version - 12.9
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+rails new my_api --api --database=postgresql
