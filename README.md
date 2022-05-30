@@ -13,3 +13,6 @@ Things you may want to cover:
 
 
 rails new my_api --api --database=postgresql
+
+
+:string, :text, :integer, :float, :decimal, :datetime, :timestamp, :time, :date, :binary, :boolean

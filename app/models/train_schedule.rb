@@ -1,0 +1,3 @@
+class TrainSchedule < ApplicationRecord
+  
+end
